@@ -1,0 +1,23 @@
+name: Bug report
+description: Tell us what prevented you from getting something done.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include what you expected and steps to reproduce. Remove private information.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Padhow version
+      placeholder: "See Settings → App updates"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac model
+    validations:
+      required: true

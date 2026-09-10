@@ -1,0 +1,15 @@
+name: Feature request
+description: Tell us what you want to accomplish more easily.
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would you like to accomplish?
+      description: Describe the task and what's difficult today.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: How could Padhow help?
+      description: Optional ideas or examples. Remove private information.
