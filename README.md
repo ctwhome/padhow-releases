@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://padhow.com"><img src="https://padhow.com/media/site/padhow-icon.png" alt="Padhow" width="112" height="112"></a>
+</p>
+
 # Padhow for macOS
 
 Write and revise across your Mac with a keyboard-first writing assistant.
+
+**[Website](https://padhow.com) · [Downloads](https://github.com/ctwhome/padhow-releases/releases/latest) · [Issues](https://github.com/ctwhome/padhow-releases/issues)**
 
 ## Get Padhow
 
